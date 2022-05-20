@@ -9,3 +9,10 @@
 ./*.xml
 *.sqlite3
 *.sqlite
+/banhammer_project.iml
+/markdown.xml
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
